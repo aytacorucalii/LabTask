@@ -1,0 +1,14 @@
+C:\Users\Hp\source\repos\aytacorucaliyeva\aytacorucaliyeva\bin\Debug\net8.0\aytacorucaliyeva.exe
+C:\Users\Hp\source\repos\aytacorucaliyeva\aytacorucaliyeva\bin\Debug\net8.0\aytacorucaliyeva.deps.json
+C:\Users\Hp\source\repos\aytacorucaliyeva\aytacorucaliyeva\bin\Debug\net8.0\aytacorucaliyeva.runtimeconfig.json
+C:\Users\Hp\source\repos\aytacorucaliyeva\aytacorucaliyeva\bin\Debug\net8.0\aytacorucaliyeva.dll
+C:\Users\Hp\source\repos\aytacorucaliyeva\aytacorucaliyeva\bin\Debug\net8.0\aytacorucaliyeva.pdb
+C:\Users\Hp\source\repos\aytacorucaliyeva\aytacorucaliyeva\obj\Debug\net8.0\aytacorucaliyeva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\aytacorucaliyeva\aytacorucaliyeva\obj\Debug\net8.0\aytacorucaliyeva.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\aytacorucaliyeva\aytacorucaliyeva\obj\Debug\net8.0\aytacorucaliyeva.AssemblyInfo.cs
+C:\Users\Hp\source\repos\aytacorucaliyeva\aytacorucaliyeva\obj\Debug\net8.0\aytacorucaliyeva.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\aytacorucaliyeva\aytacorucaliyeva\obj\Debug\net8.0\aytacorucaliyeva.dll
+C:\Users\Hp\source\repos\aytacorucaliyeva\aytacorucaliyeva\obj\Debug\net8.0\refint\aytacorucaliyeva.dll
+C:\Users\Hp\source\repos\aytacorucaliyeva\aytacorucaliyeva\obj\Debug\net8.0\aytacorucaliyeva.pdb
+C:\Users\Hp\source\repos\aytacorucaliyeva\aytacorucaliyeva\obj\Debug\net8.0\aytacorucaliyeva.genruntimeconfig.cache
+C:\Users\Hp\source\repos\aytacorucaliyeva\aytacorucaliyeva\obj\Debug\net8.0\ref\aytacorucaliyeva.dll
