@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hp\\source\\repos\\employeeAbstract\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39CFA67C-80F6-4159-AED9-972587A2B9B6}|employeeAbstract\\employeeAbstract.csproj|c:\\users\\hp\\source\\repos\\employeeabstract\\employeeabstract\\newfolder\\employeeabstract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39CFA67C-80F6-4159-AED9-972587A2B9B6}|employeeAbstract\\employeeAbstract.csproj|solutionrelative:employeeabstract\\newfolder\\employeeabstract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39CFA67C-80F6-4159-AED9-972587A2B9B6}|employeeAbstract\\employeeAbstract.csproj|c:\\users\\hp\\source\\repos\\employeeabstract\\employeeabstract\\newfolder\\hourlyemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39CFA67C-80F6-4159-AED9-972587A2B9B6}|employeeAbstract\\employeeAbstract.csproj|solutionrelative:employeeabstract\\newfolder\\hourlyemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39CFA67C-80F6-4159-AED9-972587A2B9B6}|employeeAbstract\\employeeAbstract.csproj|c:\\users\\hp\\source\\repos\\employeeabstract\\employeeabstract\\newfolder\\salariedemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39CFA67C-80F6-4159-AED9-972587A2B9B6}|employeeAbstract\\employeeAbstract.csproj|solutionrelative:employeeabstract\\newfolder\\salariedemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39CFA67C-80F6-4159-AED9-972587A2B9B6}|employeeAbstract\\employeeAbstract.csproj|c:\\users\\hp\\source\\repos\\employeeabstract\\employeeabstract\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39CFA67C-80F6-4159-AED9-972587A2B9B6}|employeeAbstract\\employeeAbstract.csproj|solutionrelative:employeeabstract\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HourlyEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\employeeAbstract\\employeeAbstract\\NewFolder\\HourlyEmployee.cs",
+              "RelativeDocumentMoniker": "employeeAbstract\\NewFolder\\HourlyEmployee.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\employeeAbstract\\employeeAbstract\\NewFolder\\HourlyEmployee.cs",
+              "RelativeToolTip": "employeeAbstract\\NewFolder\\HourlyEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T19:41:55.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SalariedEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\employeeAbstract\\employeeAbstract\\NewFolder\\SalariedEmployee.cs",
+              "RelativeDocumentMoniker": "employeeAbstract\\NewFolder\\SalariedEmployee.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\employeeAbstract\\employeeAbstract\\NewFolder\\SalariedEmployee.cs",
+              "RelativeToolTip": "employeeAbstract\\NewFolder\\SalariedEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T19:41:23.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeAbstract.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\employeeAbstract\\employeeAbstract\\NewFolder\\EmployeeAbstract.cs",
+              "RelativeDocumentMoniker": "employeeAbstract\\NewFolder\\EmployeeAbstract.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\employeeAbstract\\employeeAbstract\\NewFolder\\EmployeeAbstract.cs",
+              "RelativeToolTip": "employeeAbstract\\NewFolder\\EmployeeAbstract.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T19:38:13.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\employeeAbstract\\employeeAbstract\\Program.cs",
+              "RelativeDocumentMoniker": "employeeAbstract\\Program.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\employeeAbstract\\employeeAbstract\\Program.cs",
+              "RelativeToolTip": "employeeAbstract\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T19:36:50.743Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

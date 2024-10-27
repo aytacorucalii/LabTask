@@ -1,0 +1,14 @@
+C:\Users\Hp\source\repos\StudentServiceeTaskk\StudentServiceeTaskk\bin\Debug\net8.0\StudentServiceeTaskk.exe
+C:\Users\Hp\source\repos\StudentServiceeTaskk\StudentServiceeTaskk\bin\Debug\net8.0\StudentServiceeTaskk.deps.json
+C:\Users\Hp\source\repos\StudentServiceeTaskk\StudentServiceeTaskk\bin\Debug\net8.0\StudentServiceeTaskk.runtimeconfig.json
+C:\Users\Hp\source\repos\StudentServiceeTaskk\StudentServiceeTaskk\bin\Debug\net8.0\StudentServiceeTaskk.dll
+C:\Users\Hp\source\repos\StudentServiceeTaskk\StudentServiceeTaskk\bin\Debug\net8.0\StudentServiceeTaskk.pdb
+C:\Users\Hp\source\repos\StudentServiceeTaskk\StudentServiceeTaskk\obj\Debug\net8.0\StudentServiceeTaskk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\StudentServiceeTaskk\StudentServiceeTaskk\obj\Debug\net8.0\StudentServiceeTaskk.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\StudentServiceeTaskk\StudentServiceeTaskk\obj\Debug\net8.0\StudentServiceeTaskk.AssemblyInfo.cs
+C:\Users\Hp\source\repos\StudentServiceeTaskk\StudentServiceeTaskk\obj\Debug\net8.0\StudentServiceeTaskk.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\StudentServiceeTaskk\StudentServiceeTaskk\obj\Debug\net8.0\StudentServiceeTaskk.dll
+C:\Users\Hp\source\repos\StudentServiceeTaskk\StudentServiceeTaskk\obj\Debug\net8.0\refint\StudentServiceeTaskk.dll
+C:\Users\Hp\source\repos\StudentServiceeTaskk\StudentServiceeTaskk\obj\Debug\net8.0\StudentServiceeTaskk.pdb
+C:\Users\Hp\source\repos\StudentServiceeTaskk\StudentServiceeTaskk\obj\Debug\net8.0\StudentServiceeTaskk.genruntimeconfig.cache
+C:\Users\Hp\source\repos\StudentServiceeTaskk\StudentServiceeTaskk\obj\Debug\net8.0\ref\StudentServiceeTaskk.dll

@@ -1,0 +1,14 @@
+C:\Users\Hp\source\repos\employeeAbstract\employeeAbstract\bin\Debug\net8.0\employeeAbstract.exe
+C:\Users\Hp\source\repos\employeeAbstract\employeeAbstract\bin\Debug\net8.0\employeeAbstract.deps.json
+C:\Users\Hp\source\repos\employeeAbstract\employeeAbstract\bin\Debug\net8.0\employeeAbstract.runtimeconfig.json
+C:\Users\Hp\source\repos\employeeAbstract\employeeAbstract\bin\Debug\net8.0\employeeAbstract.dll
+C:\Users\Hp\source\repos\employeeAbstract\employeeAbstract\bin\Debug\net8.0\employeeAbstract.pdb
+C:\Users\Hp\source\repos\employeeAbstract\employeeAbstract\obj\Debug\net8.0\employeeAbstract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\employeeAbstract\employeeAbstract\obj\Debug\net8.0\employeeAbstract.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\employeeAbstract\employeeAbstract\obj\Debug\net8.0\employeeAbstract.AssemblyInfo.cs
+C:\Users\Hp\source\repos\employeeAbstract\employeeAbstract\obj\Debug\net8.0\employeeAbstract.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\employeeAbstract\employeeAbstract\obj\Debug\net8.0\employeeAbstract.dll
+C:\Users\Hp\source\repos\employeeAbstract\employeeAbstract\obj\Debug\net8.0\refint\employeeAbstract.dll
+C:\Users\Hp\source\repos\employeeAbstract\employeeAbstract\obj\Debug\net8.0\employeeAbstract.pdb
+C:\Users\Hp\source\repos\employeeAbstract\employeeAbstract\obj\Debug\net8.0\employeeAbstract.genruntimeconfig.cache
+C:\Users\Hp\source\repos\employeeAbstract\employeeAbstract\obj\Debug\net8.0\ref\employeeAbstract.dll
