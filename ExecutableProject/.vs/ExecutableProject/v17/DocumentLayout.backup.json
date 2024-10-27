@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hp\\source\\repos\\ExecutableProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{427EF1AC-E7A1-4F51-9F77-2483B69369F2}|ExecutableProject\\ExecutableProject.csproj|c:\\users\\hp\\source\\repos\\executableproject\\executableproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{427EF1AC-E7A1-4F51-9F77-2483B69369F2}|ExecutableProject\\ExecutableProject.csproj|solutionrelative:executableproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{427EF1AC-E7A1-4F51-9F77-2483B69369F2}|ExecutableProject\\ExecutableProject.csproj|c:\\users\\hp\\source\\repos\\executableproject\\executableproject\\customvalidatorlibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{427EF1AC-E7A1-4F51-9F77-2483B69369F2}|ExecutableProject\\ExecutableProject.csproj|solutionrelative:executableproject\\customvalidatorlibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomValidatorLibrary.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\ExecutableProject\\ExecutableProject\\CustomValidatorLibrary.cs",
+              "RelativeDocumentMoniker": "ExecutableProject\\CustomValidatorLibrary.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\ExecutableProject\\ExecutableProject\\CustomValidatorLibrary.cs",
+              "RelativeToolTip": "ExecutableProject\\CustomValidatorLibrary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T18:43:05.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\ExecutableProject\\ExecutableProject\\Program.cs",
+              "RelativeDocumentMoniker": "ExecutableProject\\Program.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\ExecutableProject\\ExecutableProject\\Program.cs",
+              "RelativeToolTip": "ExecutableProject\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAUwGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T18:37:26.137Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
