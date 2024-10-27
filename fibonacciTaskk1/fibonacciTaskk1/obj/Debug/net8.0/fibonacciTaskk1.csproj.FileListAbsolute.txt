@@ -1,0 +1,14 @@
+C:\Users\Hp\source\repos\fibonacciTaskk1\fibonacciTaskk1\bin\Debug\net8.0\fibonacciTaskk1.exe
+C:\Users\Hp\source\repos\fibonacciTaskk1\fibonacciTaskk1\bin\Debug\net8.0\fibonacciTaskk1.deps.json
+C:\Users\Hp\source\repos\fibonacciTaskk1\fibonacciTaskk1\bin\Debug\net8.0\fibonacciTaskk1.runtimeconfig.json
+C:\Users\Hp\source\repos\fibonacciTaskk1\fibonacciTaskk1\bin\Debug\net8.0\fibonacciTaskk1.dll
+C:\Users\Hp\source\repos\fibonacciTaskk1\fibonacciTaskk1\bin\Debug\net8.0\fibonacciTaskk1.pdb
+C:\Users\Hp\source\repos\fibonacciTaskk1\fibonacciTaskk1\obj\Debug\net8.0\fibonacciTaskk1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\fibonacciTaskk1\fibonacciTaskk1\obj\Debug\net8.0\fibonacciTaskk1.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\fibonacciTaskk1\fibonacciTaskk1\obj\Debug\net8.0\fibonacciTaskk1.AssemblyInfo.cs
+C:\Users\Hp\source\repos\fibonacciTaskk1\fibonacciTaskk1\obj\Debug\net8.0\fibonacciTaskk1.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\fibonacciTaskk1\fibonacciTaskk1\obj\Debug\net8.0\fibonacciTaskk1.dll
+C:\Users\Hp\source\repos\fibonacciTaskk1\fibonacciTaskk1\obj\Debug\net8.0\refint\fibonacciTaskk1.dll
+C:\Users\Hp\source\repos\fibonacciTaskk1\fibonacciTaskk1\obj\Debug\net8.0\fibonacciTaskk1.pdb
+C:\Users\Hp\source\repos\fibonacciTaskk1\fibonacciTaskk1\obj\Debug\net8.0\fibonacciTaskk1.genruntimeconfig.cache
+C:\Users\Hp\source\repos\fibonacciTaskk1\fibonacciTaskk1\obj\Debug\net8.0\ref\fibonacciTaskk1.dll

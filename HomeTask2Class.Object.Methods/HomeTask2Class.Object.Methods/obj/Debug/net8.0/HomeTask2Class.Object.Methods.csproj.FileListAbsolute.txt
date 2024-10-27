@@ -1,0 +1,14 @@
+C:\Users\Hp\source\repos\HomeTask2Class.Object.Methods\HomeTask2Class.Object.Methods\bin\Debug\net8.0\HomeTask2Class.Object.Methods.exe
+C:\Users\Hp\source\repos\HomeTask2Class.Object.Methods\HomeTask2Class.Object.Methods\bin\Debug\net8.0\HomeTask2Class.Object.Methods.deps.json
+C:\Users\Hp\source\repos\HomeTask2Class.Object.Methods\HomeTask2Class.Object.Methods\bin\Debug\net8.0\HomeTask2Class.Object.Methods.runtimeconfig.json
+C:\Users\Hp\source\repos\HomeTask2Class.Object.Methods\HomeTask2Class.Object.Methods\bin\Debug\net8.0\HomeTask2Class.Object.Methods.dll
+C:\Users\Hp\source\repos\HomeTask2Class.Object.Methods\HomeTask2Class.Object.Methods\bin\Debug\net8.0\HomeTask2Class.Object.Methods.pdb
+C:\Users\Hp\source\repos\HomeTask2Class.Object.Methods\HomeTask2Class.Object.Methods\obj\Debug\net8.0\HomeTask2Class.Object.Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\HomeTask2Class.Object.Methods\HomeTask2Class.Object.Methods\obj\Debug\net8.0\HomeTask2Class.Object.Methods.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\HomeTask2Class.Object.Methods\HomeTask2Class.Object.Methods\obj\Debug\net8.0\HomeTask2Class.Object.Methods.AssemblyInfo.cs
+C:\Users\Hp\source\repos\HomeTask2Class.Object.Methods\HomeTask2Class.Object.Methods\obj\Debug\net8.0\HomeTask2Class.Object.Methods.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\HomeTask2Class.Object.Methods\HomeTask2Class.Object.Methods\obj\Debug\net8.0\HomeTask2Class.Object.Methods.dll
+C:\Users\Hp\source\repos\HomeTask2Class.Object.Methods\HomeTask2Class.Object.Methods\obj\Debug\net8.0\refint\HomeTask2Class.Object.Methods.dll
+C:\Users\Hp\source\repos\HomeTask2Class.Object.Methods\HomeTask2Class.Object.Methods\obj\Debug\net8.0\HomeTask2Class.Object.Methods.pdb
+C:\Users\Hp\source\repos\HomeTask2Class.Object.Methods\HomeTask2Class.Object.Methods\obj\Debug\net8.0\HomeTask2Class.Object.Methods.genruntimeconfig.cache
+C:\Users\Hp\source\repos\HomeTask2Class.Object.Methods\HomeTask2Class.Object.Methods\obj\Debug\net8.0\ref\HomeTask2Class.Object.Methods.dll

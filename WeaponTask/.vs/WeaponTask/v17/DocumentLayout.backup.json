@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hp\\source\\repos\\WeaponTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9CFC6299-188A-4CB3-81D9-8D3F8CFBB243}|WeaponTask\\WeaponTask.csproj|c:\\users\\hp\\source\\repos\\weapontask\\weapontask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CFC6299-188A-4CB3-81D9-8D3F8CFBB243}|WeaponTask\\WeaponTask.csproj|solutionrelative:weapontask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CFC6299-188A-4CB3-81D9-8D3F8CFBB243}|WeaponTask\\WeaponTask.csproj|c:\\users\\hp\\source\\repos\\weapontask\\weapontask\\weapon\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CFC6299-188A-4CB3-81D9-8D3F8CFBB243}|WeaponTask\\WeaponTask.csproj|solutionrelative:weapontask\\weapon\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CFC6299-188A-4CB3-81D9-8D3F8CFBB243}|WeaponTask\\WeaponTask.csproj|c:\\users\\hp\\source\\repos\\weapontask\\weapontask\\weapontask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9CFC6299-188A-4CB3-81D9-8D3F8CFBB243}|WeaponTask\\WeaponTask.csproj|solutionrelative:weapontask\\weapontask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "weapon.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\WeaponTask\\WeaponTask\\Weapon\\weapon.cs",
+              "RelativeDocumentMoniker": "WeaponTask\\Weapon\\weapon.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\WeaponTask\\WeaponTask\\Weapon\\weapon.cs",
+              "RelativeToolTip": "WeaponTask\\Weapon\\weapon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T09:31:46.787Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\WeaponTask\\WeaponTask\\Program.cs",
+              "RelativeDocumentMoniker": "WeaponTask\\Program.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\WeaponTask\\WeaponTask\\Program.cs",
+              "RelativeToolTip": "WeaponTask\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAwCsAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T09:29:48.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeaponTask.csproj",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\WeaponTask\\WeaponTask\\WeaponTask.csproj",
+              "RelativeDocumentMoniker": "WeaponTask\\WeaponTask.csproj",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\WeaponTask\\WeaponTask\\WeaponTask.csproj",
+              "RelativeToolTip": "WeaponTask\\WeaponTask.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-20T09:30:15.825Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

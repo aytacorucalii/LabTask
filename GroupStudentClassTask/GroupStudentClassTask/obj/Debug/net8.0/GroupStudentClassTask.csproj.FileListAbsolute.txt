@@ -1,0 +1,14 @@
+C:\Users\Hp\source\repos\GroupStudentClassTask\GroupStudentClassTask\obj\Debug\net8.0\GroupStudentClassTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\GroupStudentClassTask\GroupStudentClassTask\obj\Debug\net8.0\GroupStudentClassTask.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\GroupStudentClassTask\GroupStudentClassTask\obj\Debug\net8.0\GroupStudentClassTask.AssemblyInfo.cs
+C:\Users\Hp\source\repos\GroupStudentClassTask\GroupStudentClassTask\obj\Debug\net8.0\GroupStudentClassTask.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\GroupStudentClassTask\GroupStudentClassTask\bin\Debug\net8.0\GroupStudentClassTask.exe
+C:\Users\Hp\source\repos\GroupStudentClassTask\GroupStudentClassTask\bin\Debug\net8.0\GroupStudentClassTask.deps.json
+C:\Users\Hp\source\repos\GroupStudentClassTask\GroupStudentClassTask\bin\Debug\net8.0\GroupStudentClassTask.runtimeconfig.json
+C:\Users\Hp\source\repos\GroupStudentClassTask\GroupStudentClassTask\bin\Debug\net8.0\GroupStudentClassTask.dll
+C:\Users\Hp\source\repos\GroupStudentClassTask\GroupStudentClassTask\bin\Debug\net8.0\GroupStudentClassTask.pdb
+C:\Users\Hp\source\repos\GroupStudentClassTask\GroupStudentClassTask\obj\Debug\net8.0\GroupStudentClassTask.dll
+C:\Users\Hp\source\repos\GroupStudentClassTask\GroupStudentClassTask\obj\Debug\net8.0\refint\GroupStudentClassTask.dll
+C:\Users\Hp\source\repos\GroupStudentClassTask\GroupStudentClassTask\obj\Debug\net8.0\GroupStudentClassTask.pdb
+C:\Users\Hp\source\repos\GroupStudentClassTask\GroupStudentClassTask\obj\Debug\net8.0\GroupStudentClassTask.genruntimeconfig.cache
+C:\Users\Hp\source\repos\GroupStudentClassTask\GroupStudentClassTask\obj\Debug\net8.0\ref\GroupStudentClassTask.dll
