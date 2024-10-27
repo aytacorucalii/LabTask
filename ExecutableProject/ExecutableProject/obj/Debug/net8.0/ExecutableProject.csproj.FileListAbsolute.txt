@@ -1,0 +1,14 @@
+C:\Users\Hp\source\repos\ExecutableProject\ExecutableProject\bin\Debug\net8.0\ExecutableProject.exe
+C:\Users\Hp\source\repos\ExecutableProject\ExecutableProject\bin\Debug\net8.0\ExecutableProject.deps.json
+C:\Users\Hp\source\repos\ExecutableProject\ExecutableProject\bin\Debug\net8.0\ExecutableProject.runtimeconfig.json
+C:\Users\Hp\source\repos\ExecutableProject\ExecutableProject\bin\Debug\net8.0\ExecutableProject.dll
+C:\Users\Hp\source\repos\ExecutableProject\ExecutableProject\bin\Debug\net8.0\ExecutableProject.pdb
+C:\Users\Hp\source\repos\ExecutableProject\ExecutableProject\obj\Debug\net8.0\ExecutableProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\ExecutableProject\ExecutableProject\obj\Debug\net8.0\ExecutableProject.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\ExecutableProject\ExecutableProject\obj\Debug\net8.0\ExecutableProject.AssemblyInfo.cs
+C:\Users\Hp\source\repos\ExecutableProject\ExecutableProject\obj\Debug\net8.0\ExecutableProject.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\ExecutableProject\ExecutableProject\obj\Debug\net8.0\ExecutableProject.dll
+C:\Users\Hp\source\repos\ExecutableProject\ExecutableProject\obj\Debug\net8.0\refint\ExecutableProject.dll
+C:\Users\Hp\source\repos\ExecutableProject\ExecutableProject\obj\Debug\net8.0\ExecutableProject.pdb
+C:\Users\Hp\source\repos\ExecutableProject\ExecutableProject\obj\Debug\net8.0\ExecutableProject.genruntimeconfig.cache
+C:\Users\Hp\source\repos\ExecutableProject\ExecutableProject\obj\Debug\net8.0\ref\ExecutableProject.dll
