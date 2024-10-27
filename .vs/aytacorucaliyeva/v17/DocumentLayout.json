@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Hp\\source\\repos\\aytacorucaliyeva\\",
+  "WorkspaceRootPath": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E4C639A9-77AF-4766-9BD2-6C99C416A595}|aytacorucaliyeva\\aytacorucaliyeva.csproj|c:\\users\\hp\\source\\repos\\aytacorucaliyeva\\aytacorucaliyeva\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4C639A9-77AF-4766-9BD2-6C99C416A595}|aytacorucaliyeva\\aytacorucaliyeva.csproj|solutionrelative:aytacorucaliyeva\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\aytacorucaliyeva\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:aytacorucaliyeva\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,18 +20,14 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\aytacorucaliyeva\\aytacorucaliyeva\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\aytacorucaliyeva\\Program.cs",
               "RelativeDocumentMoniker": "aytacorucaliyeva\\Program.cs",
-              "ToolTip": "C:\\Users\\Hp\\source\\repos\\aytacorucaliyeva\\aytacorucaliyeva\\Program.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\aytacorucaliyeva\\aytacorucaliyeva\\Program.cs",
               "RelativeToolTip": "aytacorucaliyeva\\Program.cs",
               "ViewState": "AgIAAEYAAAAAAAAAAAAgwEgAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-02T18:43:29.733Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

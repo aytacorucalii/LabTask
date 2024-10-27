@@ -1,0 +1,8 @@
+{
+  "solution": {
+    "path": "IndexerTask.sln",
+    "projects": [
+      "IndexerTask\\IndexerTask.csproj"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hp\\source\\repos\\IndexerTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C2CDB4EB-CAC2-43A1-81E7-08DDD181011F}|IndexerTask\\IndexerTask.csproj|c:\\users\\hp\\source\\repos\\indexertask\\indexertask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2CDB4EB-CAC2-43A1-81E7-08DDD181011F}|IndexerTask\\IndexerTask.csproj|solutionrelative:indexertask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\IndexerTask\\IndexerTask\\Program.cs",
+              "RelativeDocumentMoniker": "IndexerTask\\Program.cs",
+              "ToolTip": "C:\\Users\\Hp\\source\\repos\\IndexerTask\\IndexerTask\\Program.cs",
+              "RelativeToolTip": "IndexerTask\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T19:19:46.432Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
