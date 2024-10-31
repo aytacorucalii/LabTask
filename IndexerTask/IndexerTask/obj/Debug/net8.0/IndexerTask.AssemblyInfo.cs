@@ -14,7 +14,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IndexerTask")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b0afa41f2ea7d8e9d2a4ba578f298e6f131e0a1")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c22e00142142bd18545db171cc3169d69f840556")]
+>>>>>>> a6293831d68da531e6740284d64213ba2a221364
 [assembly: System.Reflection.AssemblyProductAttribute("IndexerTask")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IndexerTask")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

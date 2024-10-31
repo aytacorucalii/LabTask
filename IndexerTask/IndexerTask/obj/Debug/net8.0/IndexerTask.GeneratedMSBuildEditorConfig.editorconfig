@@ -8,6 +8,10 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = IndexerTask
+<<<<<<< HEAD
 build_property.ProjectDir = C:\Users\Hp\source\repos\IndexerTask\IndexerTask\
+=======
+build_property.ProjectDir = C:\Users\Hp\OneDrive\Desktop\aytacorucaliyeva\IndexerTask\IndexerTask\
+>>>>>>> a6293831d68da531e6740284d64213ba2a221364
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

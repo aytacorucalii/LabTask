@@ -1,0 +1,14 @@
+C:\Users\Hp\source\repos\CustomValidatorLibrary\CustomValidatorLibrary\obj\Debug\net8.0\CustomValidatorLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\source\repos\CustomValidatorLibrary\CustomValidatorLibrary\obj\Debug\net8.0\CustomValidatorLibrary.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\CustomValidatorLibrary\CustomValidatorLibrary\obj\Debug\net8.0\CustomValidatorLibrary.AssemblyInfo.cs
+C:\Users\Hp\source\repos\CustomValidatorLibrary\CustomValidatorLibrary\obj\Debug\net8.0\CustomValidatorLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\CustomValidatorLibrary\CustomValidatorLibrary\bin\Debug\net8.0\CustomValidatorLibrary.exe
+C:\Users\Hp\source\repos\CustomValidatorLibrary\CustomValidatorLibrary\bin\Debug\net8.0\CustomValidatorLibrary.deps.json
+C:\Users\Hp\source\repos\CustomValidatorLibrary\CustomValidatorLibrary\bin\Debug\net8.0\CustomValidatorLibrary.runtimeconfig.json
+C:\Users\Hp\source\repos\CustomValidatorLibrary\CustomValidatorLibrary\bin\Debug\net8.0\CustomValidatorLibrary.dll
+C:\Users\Hp\source\repos\CustomValidatorLibrary\CustomValidatorLibrary\bin\Debug\net8.0\CustomValidatorLibrary.pdb
+C:\Users\Hp\source\repos\CustomValidatorLibrary\CustomValidatorLibrary\obj\Debug\net8.0\CustomValidatorLibrary.dll
+C:\Users\Hp\source\repos\CustomValidatorLibrary\CustomValidatorLibrary\obj\Debug\net8.0\refint\CustomValidatorLibrary.dll
+C:\Users\Hp\source\repos\CustomValidatorLibrary\CustomValidatorLibrary\obj\Debug\net8.0\CustomValidatorLibrary.pdb
+C:\Users\Hp\source\repos\CustomValidatorLibrary\CustomValidatorLibrary\obj\Debug\net8.0\CustomValidatorLibrary.genruntimeconfig.cache
+C:\Users\Hp\source\repos\CustomValidatorLibrary\CustomValidatorLibrary\obj\Debug\net8.0\ref\CustomValidatorLibrary.dll
