@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Hp\\source\\repos\\AcademyProject\\AcademyProject\\AcademyProject.csproj": {}
+    "C:\\Users\\Hp\\OneDrive\\Desktop\\LabTask\\AcademyProject\\AcademyProject\\AcademyProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Hp\\source\\repos\\AcademyProject\\AcademyProject\\AcademyProject.csproj": {
+    "C:\\Users\\Hp\\OneDrive\\Desktop\\LabTask\\AcademyProject\\AcademyProject\\AcademyProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Hp\\source\\repos\\AcademyProject\\AcademyProject\\AcademyProject.csproj",
+        "projectUniqueName": "C:\\Users\\Hp\\OneDrive\\Desktop\\LabTask\\AcademyProject\\AcademyProject\\AcademyProject.csproj",
         "projectName": "AcademyProject",
-        "projectPath": "C:\\Users\\Hp\\source\\repos\\AcademyProject\\AcademyProject\\AcademyProject.csproj",
+        "projectPath": "C:\\Users\\Hp\\OneDrive\\Desktop\\LabTask\\AcademyProject\\AcademyProject\\AcademyProject.csproj",
         "packagesPath": "C:\\Users\\Hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Hp\\source\\repos\\AcademyProject\\AcademyProject\\obj\\",
+        "outputPath": "C:\\Users\\Hp\\OneDrive\\Desktop\\LabTask\\AcademyProject\\AcademyProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

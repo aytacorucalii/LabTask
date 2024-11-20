@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Mlb0iFpxgSA=",
+  "dgSpecHash": "CA30rXred/g=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Hp\\source\\repos\\AcademyProject\\AcademyProject\\AcademyProject.csproj",
+  "projectFilePath": "C:\\Users\\Hp\\OneDrive\\Desktop\\LabTask\\AcademyProject\\AcademyProject\\AcademyProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hp\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
     "C:\\Users\\Hp\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",

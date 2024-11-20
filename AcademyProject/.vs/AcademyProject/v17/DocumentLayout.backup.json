@@ -1,18 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Hp\\source\\repos\\AcademyProject\\",
+  "WorkspaceRootPath": "C:\\Users\\Hp\\OneDrive\\Desktop\\LabTask\\AcademyProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{653C9BC7-3947-4B65-B3A9-E57826903F0E}|AcademyProject\\AcademyProject.csproj|c:\\users\\hp\\source\\repos\\academyproject\\academyproject\\models\\sqlqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{653C9BC7-3947-4B65-B3A9-E57826903F0E}|AcademyProject\\AcademyProject.csproj|solutionrelative:academyproject\\models\\sqlqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{653C9BC7-3947-4B65-B3A9-E57826903F0E}|AcademyProject\\AcademyProject.csproj|c:\\users\\hp\\source\\repos\\academyproject\\academyproject\\helpers\\extensionsql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{653C9BC7-3947-4B65-B3A9-E57826903F0E}|AcademyProject\\AcademyProject.csproj|solutionrelative:academyproject\\helpers\\extensionsql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{653C9BC7-3947-4B65-B3A9-E57826903F0E}|AcademyProject\\AcademyProject.csproj|c:\\users\\hp\\source\\repos\\academyproject\\academyproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{653C9BC7-3947-4B65-B3A9-E57826903F0E}|AcademyProject\\AcademyProject.csproj|c:\\users\\hp\\onedrive\\desktop\\labtask\\academyproject\\academyproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{653C9BC7-3947-4B65-B3A9-E57826903F0E}|AcademyProject\\AcademyProject.csproj|solutionrelative:academyproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{653C9BC7-3947-4B65-B3A9-E57826903F0E}|AcademyProject\\AcademyProject.csproj|c:\\users\\hp\\onedrive\\desktop\\labtask\\academyproject\\academyproject\\models\\sqlqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{653C9BC7-3947-4B65-B3A9-E57826903F0E}|AcademyProject\\AcademyProject.csproj|solutionrelative:academyproject\\models\\sqlqueries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,17 +18,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "SQLqueries.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\AcademyProject\\AcademyProject\\Models\\SQLqueries.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\LabTask\\AcademyProject\\AcademyProject\\Models\\SQLqueries.cs",
               "RelativeDocumentMoniker": "AcademyProject\\Models\\SQLqueries.cs",
-              "ToolTip": "C:\\Users\\Hp\\source\\repos\\AcademyProject\\AcademyProject\\Models\\SQLqueries.cs*",
-              "RelativeToolTip": "AcademyProject\\Models\\SQLqueries.cs*",
-              "ViewState": "AgIAACwAAAAAAAAAAAAgwDsAAAAJAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\LabTask\\AcademyProject\\AcademyProject\\Models\\SQLqueries.cs",
+              "RelativeToolTip": "AcademyProject\\Models\\SQLqueries.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAwDsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-16T13:46:25.643Z",
               "IsPinned": true,
@@ -40,26 +36,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ExtensionSql.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\AcademyProject\\AcademyProject\\Helpers\\ExtensionSql.cs",
-              "RelativeDocumentMoniker": "AcademyProject\\Helpers\\ExtensionSql.cs",
-              "ToolTip": "C:\\Users\\Hp\\source\\repos\\AcademyProject\\AcademyProject\\Helpers\\ExtensionSql.cs",
-              "RelativeToolTip": "AcademyProject\\Helpers\\ExtensionSql.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T13:57:01.025Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Hp\\source\\repos\\AcademyProject\\AcademyProject\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\LabTask\\AcademyProject\\AcademyProject\\Program.cs",
               "RelativeDocumentMoniker": "AcademyProject\\Program.cs",
-              "ToolTip": "C:\\Users\\Hp\\source\\repos\\AcademyProject\\AcademyProject\\Program.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\LabTask\\AcademyProject\\AcademyProject\\Program.cs",
               "RelativeToolTip": "AcademyProject\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-16T13:18:48.9Z",
               "EditorCaption": ""
